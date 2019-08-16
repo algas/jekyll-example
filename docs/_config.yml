@@ -11,6 +11,11 @@ theme: jekyll-theme-slate
 # plugins:
 #   - jekyll-feed
 
+github:
+  is_project_page: false
+  owner_name: 'algas'
+  owner_url: 'https://github.com/algas'
+
 exclude:
   - Gemfile
   - Gemfile.lock
